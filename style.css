@@ -1,0 +1,73 @@
+html{
+    margin: 0px;
+    background-color:transparent;
+}
+/*wesite color format*/
+
+header{background-color: orange;}
+   
+
+
+body{background-color: antiquewhite;
+    font-family: Arial,Helvetica, sans-serif;
+    margin:0px; 
+    font-size: 20px;
+}
+
+#logo{
+    margin: 0px;
+    padding: 15px;
+    font-family:"fredoka one", sans-serif;
+box-shadow:10px 10px 20px 5px white;  /*shadow below the logo*/
+width: 12%;
+}
+
+/* press option and 3 then can get #,this hash keys are for ID*/
+/* margin:与顶框的距离*/ 
+
+
+ul{
+    margin: 0px;
+}
+
+body>header{
+    background-color:orange;
+    color: white;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+/*first section for profile*/
+
+body>header>nav>ul{
+    list-style: none;
+    text-decoration:none;
+}
+
+
+
+.navbutton{color:aqua;}
+/*  . is for class*/
+
+body>main>article{
+    width: 70% ;
+    margin: auto;
+}
+
+form{
+    text-align: :center;
+}
+/*ensure all text formating in center*/
+
+img{border-radius: 50%;}
+/*比例越大图片越圆*/
+
+body>footer{
+    background-color: orange;
+}
+
+h1{
+    font-size: 50px;
+}
+/* set the size of a font is to use pixels.*/
+
+boxsh
+/* add box shadow, need to add horizontal offset,vertical offset spread radius*/
